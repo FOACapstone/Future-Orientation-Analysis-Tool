@@ -22,7 +22,7 @@ The Future Orientation Analysis (FOA) Tool is an “easy-to-use” interactive a
  
 The FOA tool is designed for researchers with limited Python skills to conduct natural language processing (NLP) analysis. Researchers can compile their own dataset and use the FOA tool to analyse the future orientation of any research topic. Further information can be found directly in the code description. 
 
-*The FOA tool is a "stand-alone" code structure developed for Google Colaboratory (Colab). If run locally, the code may need to be subject to certain adaptations to be adequately executed. 
+*The FOA tool is a standalone code structure developed for Google Colaboratory (Colab). When run locally, the code may require certain adaptations for proper execution.
 
 ## Motivation
 Before the 2024 United Nations Summit of The Future, five of our team members worked with the UNU Centre for Policy Research on the Future Orientation Analysis Framework and Applications at The United Nations. We worked on this capstone project to analyse the future orientation of the UN using natural language processing and qualitative analysis. There is very little existing research using natural language processing to study future orientation in the context of the United Nations. However, during times of turmoil and great uncertainty, we believe that the future orientation of the UN is crucial for setting the stage for countries and leading the world in transforming words into actions.
