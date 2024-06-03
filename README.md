@@ -9,7 +9,7 @@ Vaidehi Jha: jhavaidehi.1@gmail.com
 Charles Xicheng Nie: charles7788620356@gmail.com
 Tural Gurbanli: tgurbanli4860@gmail.com 
 
-## Data
+## Data and FOA Tool*
 We collected more than 1,200 speeches and remarks given by the current United Nations Secretary General - António Guterres from 2017 to 2023. Data are collected from the official UN website: https://www.un.org/sg/en/content/sg/secretary-generals-speeches. Please refer to the website for more information. Due to the website’s structure, the database was manually compiled into an Excel file and made available in this repository. 
 
 Our research is based on the four pillars of the UN: Sustainable Development, Peace and Security, Human Rights, and Humanitarian Aid. The speeches are allocated to each pillar based on the keywords. Researchers can use other keywords to define their own research pillars using this tool.
@@ -20,8 +20,9 @@ The Future Orientation Analysis (FOA) Tool is an “easy-to-use” interactive a
 ·  	Allocate text-based data to clusters based on keywords
 ·  	Apply and plot the different definitions of future orientation across clusters over time
  
-The FOA tool is designed for researchers with limited Python skills to conduct natural language processing (NLP) analysis. Researchers can compile their own dataset and use the FOA tool to analyse the future orientation of any research topic.
+The FOA tool is designed for researchers with limited Python skills to conduct natural language processing (NLP) analysis. Researchers can compile their own dataset and use the FOA tool to analyse the future orientation of any research topic. Further information can be found directly in the code description. 
 
+*The FOA tool is a "stand-alone" code structure developed for Google Colaboratory (Colab). If run locally, the code may need to be subject to certain adaptations to be adequately executed. 
 
 ## Motivation
 Before the 2024 United Nations Summit of The Future, five of our team members worked with the UNU Centre for Policy Research on the Future Orientation Analysis Framework and Applications at The United Nations. We worked on this capstone project to analyse the future orientation of the UN using natural language processing and qualitative analysis. There is very little existing research using natural language processing to study future orientation in the context of the United Nations. However, during times of turmoil and great uncertainty, we believe that the future orientation of the UN is crucial for setting the stage for countries and leading the world in transforming words into actions.
